@@ -18,11 +18,10 @@
 | 🟢 **TASK 1** | 04/01 | Setup dự án, chạy được bằng **Docker** – [Xem task](https://discord.com/channels/1456233443682947246/1456233444244852773/1456560299560669265) |
 | 🔵 **TASK 2** | 07/01 | **Lexer CS** – [Xem task](https://discord.com/channels/1456233443682947246/1456233444244852773/1457257138140221510) |
 | 🟡 **TASK 3** | 09/01 | **Parser CS** – [Xem task](https://discord.com/channels/1456233443682947246/1456233444244852773/1457312239072841832) |
-| 🟠 **TASK 4** | 11/01 | **AST CS** – ⏳ Chưa cập nhật |
-| 🟣 **TASK 5** | 18/01 | **BTL1 + BTL2 HK241** (Lexer + Parser + AST MiniGo) – ⏳ Chưa cập nhật |
-| 🟤 **TASK 6** | 25/01 | **Lexer BTL1 + Harmony** – ⏳ Chưa cập nhật |
-| 🔴 **TASK 7** | 01/02 | **Parser BTL1 + Harmony** – ⏳ Chưa cập nhật |
-| ⚫ **TASK 8** | 08/02 | **AST BTL2 + Harmony** – ⏳ Chưa cập nhật |
+| 🟠 **TASK 4** | 11/01 | **AST CS** – [Xem task](https://discord.com/channels/1456233443682947246/1456233444244852773/1458744930364162098) |
+| 🟤 **TASK 5** | 25/01 | **Lexer BTL1 + Harmony** – [Xem task](https://discord.com/channels/1456233443682947246/1456233444706091014/1462755795908300811) |
+| 🔴 **TASK 6** | 01/02 | **Parser BTL1 + Harmony** – [Xem task](https://discord.com/channels/1456233443682947246/1456233444706091014/1462755795908300811) |
+| ⚫ **TASK 7** | 08/02 | **AST BTL2 + Harmony** –[Xem task](https://discord.com/channels/1456233443682947246/1456233444706091014/1462755795908300811) |
 
 
 ---
